@@ -30,3 +30,5 @@ Known issues: The python script freezes up after roughly 30 hours. I use a daily
 0 18 * * * /home/pi/chiprunner.sh
 @reboot /home/pi/chiprunner.sh
 ```
+<br>
+Note: A sample file is provided so you can up your database similar to mine.
