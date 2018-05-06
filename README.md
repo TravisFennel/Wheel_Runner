@@ -26,8 +26,7 @@ Setup:<br>
 
 ---
 Known issues: The python script freezes up after roughly 30 hours. I use a daily cronjob to restart the script every 24 hours in a screen session.<br>
-'''
+```
 0 18 * * * /home/pi/chiprunner.sh
 @reboot /home/pi/chiprunner.sh
-'''
-
+```
