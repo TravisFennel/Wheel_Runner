@@ -1,7 +1,7 @@
 # Wheel_Runner
 Tracking the distance small animals run in their wheels <br><br>
 
-[You can access my hedgehog's live data here.](https://chip.fenneltechsolutions.com)<br><br>
+[You can access my hedgehog's live data here.](https://chip.fenneltechsolutions.com) -- Note, Chip has passed, and this server is no longer maintained.<br><br>
 
 I made this as there were no really good ways to track how far my hedgehog runs at night.<br>
 
